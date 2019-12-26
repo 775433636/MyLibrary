@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/myresources" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/Test.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/CollaborativeFiltering/CollaborativeFilterALS.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/DecisionTree/DecisionRegressionTree.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/DecisionTree/DecisionTreeDemo.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/DecisionTree/DecisionTreeDemo1.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/DecisionTree/DecisionTreeDemo2.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/DecisionTree/RandomForests.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Extracting/PCA.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/FrequentPattern/FrequentPattern.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/K_Means/GaussianMixture.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/K_Means/KmeansDemo.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Regression/LinearRegression.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Regression/LinearRegressionML.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Regression/LinearRegressionML2.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Regression/LogisticRegression.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/SparkMLlib/Regression/LogisticRegressionML.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkCore" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/kafka/Kafka.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/KafkaStreamingTop.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/KafkaStreamingTopOffsetAuto.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/StockHbaseUtils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/StockKafkaProducer.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/StockOffsetUtils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/StockSparkStreaming.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/myworking/Utils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/offset/RadisUtils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/offset/Utils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/offset/save2hbase/SaveOffsetToHBase.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/spark/sparkStreaming/offset/save2hbase/Utils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/utils" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/utils/ConfigHolder.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/utils/Date/DateTimeUtils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/utils/Date/DateUtils.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/utils/json/JsonParser.scala" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
